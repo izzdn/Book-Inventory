@@ -1,0 +1,119 @@
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\bin\Debug\DIMS.exe.config
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\bin\Debug\DIMS.exe
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\bin\Debug\DIMS.pdb
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\bin\Debug\DIMS.xml
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\Project.vbprojAssemblyReference.cache
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.frmBorrowUpdate.resources
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.frmBooklist.resources
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.frmBorrow.resources
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.frmForgetPassword.resources
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.frmMain.resources
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.frmStaffLogin.resources
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.frmStaffMain.resources
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.frmStudentLogin.resources
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.frmStudentMain.resources
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.frmStudentRegister.resources
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.frmUpdateBooks.resources
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.Resources.resources
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\Project.vbproj.GenerateResource.cache
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.exe
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.xml
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.pdb
+C:\Users\nashr\Desktop\DIM\DIMS\DIMS\obj\Debug\DIMS.frmBorrowList.resources
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\bin\Debug\DIMS.exe.config
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\bin\Debug\DIMS.exe
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\bin\Debug\DIMS.pdb
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\bin\Debug\DIMS.xml
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\Project.vbprojAssemblyReference.cache
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.frmBorrowList.resources
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.frmBorrowUpdate.resources
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.frmBooklist.resources
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.frmBorrow.resources
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.frmForgetPassword.resources
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.frmMain.resources
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.frmStaffLogin.resources
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.frmStaffMain.resources
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.frmStudentLogin.resources
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.frmStudentMain.resources
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.frmStudentRegister.resources
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.frmUpdateBooks.resources
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.Resources.resources
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\Project.vbproj.GenerateResource.cache
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.exe
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.xml
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.pdb
+C:\Users\nashr\Desktop\DIM - Copy\DIMS\DIMS\obj\Debug\DIMS.frmReturn.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\Project.vbprojAssemblyReference.cache
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmBorrowList.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmBorrowUpdate.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmBooklist.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmBorrow.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmForgetPassword.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmMain.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmReturn.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmStaffLogin.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmStaffMain.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmStudentLogin.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmStudentMain.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmStudentRegister.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmUpdateBooks.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.Resources.resources
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\Project.vbproj.GenerateResource.cache
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.exe
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.xml
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.pdb
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\bin\Debug\DIMS.exe.config
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\bin\Debug\DIMS.exe
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\bin\Debug\DIMS.pdb
+C:\Users\nashr\Desktop\DIM - Copy - Pendua\DIMS\DIMS\bin\Debug\DIMS.xml
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\bin\Debug\DIMS.exe.config
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\bin\Debug\DIMS.exe
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\bin\Debug\DIMS.pdb
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\bin\Debug\DIMS.xml
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\Project.vbprojAssemblyReference.cache
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmBorrowList.resources
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmBorrowUpdate.resources
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmBooklist.resources
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmBorrow.resources
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmForgetPassword.resources
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmMain.resources
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmReturn.resources
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmStaffLogin.resources
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmStaffMain.resources
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmStudentLogin.resources
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmStudentMain.resources
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmStudentRegister.resources
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.frmUpdateBooks.resources
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.Resources.resources
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\Project.vbproj.GenerateResource.cache
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.exe
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.xml
+C:\Users\admin\Documents\CSC301\Project VB\DIM - Copy - Pendua\DIMS\DIMS\obj\Debug\DIMS.pdb
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\bin\Debug\DIMS.exe.config
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\bin\Debug\DIMS.exe
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\bin\Debug\DIMS.pdb
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\bin\Debug\DIMS.xml
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\Project.vbprojAssemblyReference.cache
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.frmBorrowList.resources
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.frmBorrowUpdate.resources
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.frmBooklist.resources
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.frmBorrow.resources
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.frmForgetPassword.resources
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.frmMain.resources
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.frmReturn.resources
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.frmStaffLogin.resources
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.frmStaffMain.resources
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.frmStudentLogin.resources
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.frmStudentMain.resources
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.frmStudentRegister.resources
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.frmUpdateBooks.resources
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.Resources.resources
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\Project.vbproj.GenerateResource.cache
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.exe
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.xml
+C:\Users\nashr\Desktop\Library\DIMS\DIMS\obj\Debug\DIMS.pdb

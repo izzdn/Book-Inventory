@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{867326D3-28C6-4CA8-B287-B0A142D6E95B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>DIMS.My.MyApplication</StartupObject>
+    <RootNamespace>DIMS</RootNamespace>
+    <AssemblyName>DIMS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DIMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DIMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DATABASEDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DATABASEDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmBorrowList.Designer.vb">
+      <DependentUpon>frmBorrowList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBorrowList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBorrowUpdate.Designer.vb">
+      <DependentUpon>frmBorrowUpdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBorrowUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBooklist.Designer.vb">
+      <DependentUpon>frmBooklist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBooklist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBorrow.Designer.vb">
+      <DependentUpon>frmBorrow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBorrow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmForgetPassword.Designer.vb">
+      <DependentUpon>frmForgetPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmForgetPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReturn.Designer.vb">
+      <DependentUpon>frmReturn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReturn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaffLogin.Designer.vb">
+      <DependentUpon>frmStaffLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaffLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaffMain.Designer.vb">
+      <DependentUpon>frmStaffMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaffMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentLogin.Designer.vb">
+      <DependentUpon>frmStudentLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentMain.Designer.vb">
+      <DependentUpon>frmStudentMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentRegister.Designer.vb">
+      <DependentUpon>frmStudentRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateBooks.Designer.vb">
+      <DependentUpon>frmUpdateBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdlVariable.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmBorrowList.resx">
+      <DependentUpon>frmBorrowList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBorrowUpdate.resx">
+      <DependentUpon>frmBorrowUpdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBooklist.resx">
+      <DependentUpon>frmBooklist.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBorrow.resx">
+      <DependentUpon>frmBorrow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmForgetPassword.resx">
+      <DependentUpon>frmForgetPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReturn.resx">
+      <DependentUpon>frmReturn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaffLogin.resx">
+      <DependentUpon>frmStaffLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaffMain.resx">
+      <DependentUpon>frmStaffMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentLogin.resx">
+      <DependentUpon>frmStudentLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentMain.resx">
+      <DependentUpon>frmStudentMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentRegister.resx">
+      <DependentUpon>frmStudentRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateBooks.resx">
+      <DependentUpon>frmUpdateBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DATABASEDataSet.xsc">
+      <DependentUpon>DATABASEDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DATABASEDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DATABASEDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DATABASEDataSet.xss">
+      <DependentUpon>DATABASEDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
